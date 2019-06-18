@@ -19,7 +19,7 @@
       <div class="inline-block">© 2017-19 <strong>JSK INFRA PRIVATE LIMITED</strong>.<br>All Rights Resevered.<br>
         Beautifully crafted and coded with Love by <b><a href="https://www.twitter.com/@LittleGyaani" title="Little Gyaani (BRAHMA)" target="_blank">LittleGyaani</a></b><br>
         CIN : <strong>U70109OR2012PTC016102</strong> | GSTIN : <strong>21AACCJ9485FIZI</strong> <br>
-        REGD.OFFICE: PLOT NO-113/2478/5585, K F ROAD, LANE 3, <br>KHANDAGIRI VIHAR, KHANDAGIRI, BHUBANESWAR, ODISHA - 751030 (IN)
+        REGD.OFFICE: PLOT NO. - 113/2478/5585, LANE NO. - 3, <br>KHANDAGIRI VIHAR, KHANDAGIRI, BHUBANESWAR, ODISHA - 751030 (IN)
         <br>
         <div class="flex-item">
           <div class="social-list">
