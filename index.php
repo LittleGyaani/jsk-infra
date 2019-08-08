@@ -40,7 +40,7 @@
 
                   <!-- Main image-->
 
-                  <img src="https://www.jskinfra.co/images/slider/slider01b.jpg" data-bgparallax="5"  alt="" data-bgposition="center 0" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
+                  <img src="assets/images/slider/slide1_durgapur.png" data-bgparallax="5"  alt="" data-bgposition="center 0" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
 
                   <!-- Layer 1 -->
 
@@ -194,7 +194,7 @@
 
             <!-- Main image-->
 
-            <img src="https://www.jskinfra.co/images/slider/slider02b.jpg"  data-bgparallax="5" alt="" data-bgposition="center 0" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
+            <img src="https://www.jskinfra.co/assets/images/slider/slider02b.jpg"  data-bgparallax="5" alt="" data-bgposition="center 0" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
 
             <!-- Layer 1 -->
             <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
@@ -347,7 +347,7 @@
 
       <!-- Main image-->
 
-      <img src="https://www.jskinfra.co/images/slider/slider03b.jpg"  data-bgparallax="5" alt="" data-bgposition="center 0" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
+      <img src="https://www.jskinfra.co/assets/images/slider/slider03b.jpg"  data-bgparallax="5" alt="" data-bgposition="center 0" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg">
 
       <!-- Layer 1 -->
       <div class="tp-caption tp-shape tp-shapewrapper  tp-resizeme"
@@ -527,7 +527,7 @@
           </div>
           <div class="col-md-5 col-md-offset-1">
             <div class="dots-image">
-              <img alt="" class="about-img img-responsive" src="images/1-470x660.png">
+              <img alt="" class="about-img img-responsive" src="assets/images/1-470x660.png">
               <div class="dots"></div>
             </div>
           </div>
@@ -557,7 +557,7 @@
       </div>
       <div class="project-carousel owl-carousel">
         <div class="project-item item-shadow building">
-          <img alt="" class="img-responsive" src="images/projects/1-426x574.jpg">
+          <img alt="" class="img-responsive" src="assets/images/projects/1-426x574.jpg">
           <div class="project-hover">
             <div class="project-hover-content">
               <h3 class="project-title">Triangle<br>Concrete House<br>On Lake</h3>
@@ -567,7 +567,7 @@
           <a href="" class="link-arrow">See project <i class="icon ion-ios-arrow-right"></i></a>
         </div>
         <div class="project-item item-shadow building">
-          <img alt="" class="img-responsive" src="images/projects/2-426x574.jpg">
+          <img alt="" class="img-responsive" src="assets/images/projects/2-426x574.jpg">
           <div class="project-hover">
             <div class="project-hover-content">
               <h3 class="project-title">Ocean<br>Museum<br>Italy</h3>
@@ -577,7 +577,7 @@
           <a href="" class="link-arrow">See project <i class="icon ion-ios-arrow-right"></i></a>
         </div>
         <div class="project-item item-shadow building">
-          <img alt="" class="img-responsive" src="images/projects/3-426x574.jpg">
+          <img alt="" class="img-responsive" src="assets/images/projects/3-426x574.jpg">
           <div class="project-hover">
             <div class="project-hover-content">
               <h3 class="project-title">Milko<br>Co-Working<br>Building</h3>
@@ -587,7 +587,7 @@
           <a href="" class="link-arrow">See project <i class="icon ion-ios-arrow-right"></i></a>
         </div>
         <div class="project-item item-shadow building">
-          <img alt="" class="img-responsive" src="images/projects/4-426x574.jpg">
+          <img alt="" class="img-responsive" src="assets/images/projects/4-426x574.jpg">
           <div class="project-hover">
             <div class="project-hover-content">
               <h3 class="project-title">Redesign<br>Interior For<br>Villa</h3>
@@ -597,7 +597,7 @@
           <a href="" class="link-arrow">See project <i class="icon ion-ios-arrow-right"></i></a>
         </div>
         <div class="project-item item-shadow interior-exterior">
-          <img alt="" class="img-responsive" src="images/projects/5-426x574.jpg">
+          <img alt="" class="img-responsive" src="assets/images/projects/5-426x574.jpg">
           <div class="project-hover">
             <div class="project-hover-content">
               <h3 class="project-title">Wooden<br>Hozirontal<br>Villa</h3>
@@ -607,7 +607,7 @@
           <a href="" class="link-arrow">See project <i class="icon ion-ios-arrow-right"></i></a>
         </div>
         <div class="project-item item-shadow interior-exterior">
-          <img alt="" class="img-responsive" src="images/projects/6-426x574.jpg">
+          <img alt="" class="img-responsive" src="assets/images/projects/6-426x574.jpg">
           <div class="project-hover">
             <div class="project-hover-content">
               <h3 class="project-title">Small<br>House Near<br>Wroclaw</h3>
@@ -617,7 +617,7 @@
           <a href="" class="link-arrow">See project <i class="icon ion-ios-arrow-right"></i></a>
         </div>
         <div class="project-item item-shadow interior-exterior">
-          <img alt="" class="img-responsive" src="images/projects/7-426x574.jpg">
+          <img alt="" class="img-responsive" src="assets/images/projects/7-426x574.jpg">
           <div class="project-hover">
             <div class="project-hover-content">
               <h3 class="project-title">Bellecomde<br>Holiday<br>Residence</h3>
@@ -627,7 +627,7 @@
           <a href="" class="link-arrow">See project <i class="icon ion-ios-arrow-right"></i></a>
         </div>
         <div class="project-item item-shadow interior-exterior">
-          <img alt="" class="img-responsive" src="images/projects/8-426x574.jpg">
+          <img alt="" class="img-responsive" src="assets/images/projects/8-426x574.jpg">
           <div class="project-hover">
             <div class="project-hover-content">
               <h3 class="project-title">Cubic<br>Inter Mesuem<br>In Rome</h3>
@@ -646,9 +646,9 @@
         <h2 class="section-title">From Great Our Clients</h2>
         <div class="client-carousel owl-carousel">
           <div class="client-carousel-item">
-            <img alt="" class="client-img" src="images/clients/client-default.png">
+            <img alt="" class="client-img" src="assets/images/clients/client-default.png">
             <div class="client-box">
-              <img alt="" class="image-quote" src="images/image-icons/icon-quote.png">
+              <img alt="" class="image-quote" src="assets/images/image-icons/icon-quote.png">
               <div class="client-title">
                 <span class="client-name">ANANTA KISHORE DHAL </span>
                 <span class="client-company">/ Govt. Teacher (Head Master)</span>
@@ -657,9 +657,9 @@
             </div>
           </div>
           <div class="client-carousel-item">
-            <img alt="" class="client-img" src="images/clients/2-92x92.jpg">
+            <img alt="" class="client-img" src="assets/images/clients/2-92x92.jpg">
             <div class="client-box">
-              <img alt="" class="image-quote" src="images/image-icons/icon-quote.png">
+              <img alt="" class="image-quote" src="assets/images/image-icons/icon-quote.png">
               <div class="client-title">
                 <span class="client-name">BIJAY SUR </span>
                 <span class="client-company">/ Govt. Doctor</span>
@@ -668,9 +668,9 @@
             </div>
           </div>
           <div class="client-carousel-item">
-            <img alt="" class="client-img" src="images/clients/1-92x92.jpg">
+            <img alt="" class="client-img" src="assets/images/clients/1-92x92.jpg">
             <div class="client-box">
-              <img alt="" class="image-quote" src="images/image-icons/icon-quote.png">
+              <img alt="" class="image-quote" src="assets/images/image-icons/icon-quote.png">
               <div class="client-title">
                 <span class="client-name">SWATI SOUMYA MOHANTY </span>
                 <span class="client-company">/ IT Professional</span>
@@ -679,9 +679,9 @@
             </div>
           </div>
           <div class="client-carousel-item">
-            <img alt="" class="client-img" src="images/clients/2-92x92.jpg">
+            <img alt="" class="client-img" src="assets/images/clients/2-92x92.jpg">
             <div class="client-box">
-              <img alt="" class="image-quote" src="images/image-icons/icon-quote.png">
+              <img alt="" class="image-quote" src="assets/images/image-icons/icon-quote.png">
               <div class="client-title">
                 <span class="client-name">SWATI SWARUP MOHANTY </span>
                 <span class="client-company">/ IT Professional, WIPRO</span>
@@ -690,9 +690,9 @@
             </div>
           </div>
           <div class="client-carousel-item">
-            <img alt="" class="client-img" src="images/clients/2-92x92.jpg">
+            <img alt="" class="client-img" src="assets/images/clients/2-92x92.jpg">
             <div class="client-box">
-              <img alt="" class="image-quote" src="images/image-icons/icon-quote.png">
+              <img alt="" class="image-quote" src="assets/images/image-icons/icon-quote.png">
               <div class="client-title">
                 <span class="client-name">BAPU DHIREN </span>
                 <span class="client-company">/ Software Engineer, TCS</span>
@@ -701,9 +701,9 @@
             </div>
           </div>
           <div class="client-carousel-item">
-            <img alt="" class="client-img" src="images/clients/2-92x92.jpg">
+            <img alt="" class="client-img" src="assets/images/clients/client_Gyana_Ranjan_Behera.png">
             <div class="client-box">
-              <img alt="" class="image-quote" src="images/image-icons/icon-quote.png">
+              <img alt="" class="image-quote" src="assets/images/image-icons/icon-quote.png">
               <div class="client-title">
                 <span class="client-name">GYANA RANJAN BEHERA </span>
                 <span class="client-company">/ Software Engineer, Infosys</span>
@@ -712,9 +712,9 @@
             </div>
           </div>
           <div class="client-carousel-item">
-            <img alt="" class="client-img" src="images/clients/2-92x92.jpg">
+            <img alt="" class="client-img" src="assets/images/clients/client_Prasant_Harichandan.png">
             <div class="client-box">
-              <img alt="" class="image-quote" src="images/image-icons/icon-quote.png">
+              <img alt="" class="image-quote" src="assets/images/image-icons/icon-quote.png">
               <div class="client-title">
                 <span class="client-name">PRASANT HARICHANDAN </span>
                 <span class="client-company">/ Software Engineer, TCS</span>
@@ -725,19 +725,19 @@
         </div>
         <div class="partner-carousel owl-carousel">
           <div class="partner-carousel-item">
-            <img alt="" src="images/partners/1.png">
+            <img alt="" src="assets/images/partners/1.png">
           </div>
           <div class="partner-carousel-item">
-            <img alt="" src="images/partners/2.png">
+            <img alt="" src="assets/images/partners/2.png">
           </div>
           <div class="partner-carousel-item">
-            <img alt="" src="images/partners/3.png">
+            <img alt="" src="assets/images/partners/3.png">
           </div>
           <div class="partner-carousel-item">
-            <img alt="" src="images/partners/4.png">
+            <img alt="" src="assets/images/partners/4.png">
           </div>
           <div class="partner-carousel-item">
-            <img alt="" src="images/partners/5.png">
+            <img alt="" src="assets/images/partners/5.png">
           </div>
         </div>
       </div>
@@ -750,7 +750,7 @@
         <h2 class="section-title">Latest News <a href="" class="link-arrow-2 pull-right">All Articles <i class="icon ion-ios-arrow-right"></i></a></h2>
         <div class="news-carousel owl-carousel">
           <div class="news-item">
-            <img alt="" src="images/news/1-370x370.jpg">
+            <img alt="" src="assets/images/news/1-370x370.jpg">
             <div class="news-hover">
               <div class="hover-border"><div></div></div>
               <div class="content">
@@ -762,7 +762,7 @@
             </div>
           </div>
           <div class="news-item">
-            <img alt="" src="images/news/2-370x370.jpg">
+            <img alt="" src="assets/images/news/2-370x370.jpg">
             <div class="news-hover">
               <div class="hover-border"><div></div></div>
               <div class="content">
@@ -774,7 +774,7 @@
             </div>
           </div>
           <div class="news-item">
-            <img alt="" src="images/news/3-370x370.jpg">
+            <img alt="" src="assets/images/news/3-370x370.jpg">
             <div class="news-hover">
               <div class="hover-border"><div></div></div>
               <div class="content">
